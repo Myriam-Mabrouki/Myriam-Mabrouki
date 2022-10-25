@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Myriam-Mabrouki
 - 👀 I’m interested in coding and learning languages
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on
+- 🌱 I’m currently learning OCaml
+- 💞️ I’m looking to collaborate on every projects
 - 📫 How to reach me https://www.linkedin.com/in/myriam-mabrouki/ 
 
 <!---
