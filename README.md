@@ -1,4 +1,4 @@
-# Hello ! 👋 :
+# Hello ! 👋
 
 Hey ! I'm Myriam Mabrouki, a Master student at Sorbonne University in the SAR (Distributed Systems and Applications) program which is focused on, critical systems, operating systems, and distributed systems. I'm passionate about critical real-time embedded systems, computer architecture, operating systems and low-level programming.
 
